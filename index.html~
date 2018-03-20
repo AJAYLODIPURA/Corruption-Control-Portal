@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="AJAY SINGH" >
+
+    <title>Root Out CORRUPTION</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css">
+    
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css">
+    
+    
+    <!-- Animate CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/css/animate.css">
+    
+    <!-- Owl-Carousel -->
+    <link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.css" >
+    <link rel="stylesheet" type="text/css" href="assets/css/owl.theme.css" >
+    <link rel="stylesheet" type="text/css" href="assets/css/owl.transitions.css" >
+
+    <!-- Materialize CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/css/material.css">
+    
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link href="assets/css/style2.css" type="text/css" rel="stylesheet">
+    <link href="assets/css/style1.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+    
+    
+
+
+    <!-- Colors CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/css/color/blue.css" title="blue">
+    
+
+    <!-- Custom Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    
+    
+    <!-- Modernizer js -->
+    <script src="assets/js/modernizr.custom.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<div class="top_wrapper">
+<p><img id="font_head" src="assets/images/flag.jpg" alt="flag"><b><a href="index.html"> CORRUPTION FREE INDIA</a></b><a class="link_1" href="#service" class="page-scroll waves-effect"><button>Log in</button></a><a class="link_1" href="Registration.html"><button>Register</button></a></p></div>
+<link rel=" shortcut icon" href= "assets/images/flag.jpg"/>
+ 
+ 
+<!-- 2nd row identification -->
+
+<div class="second_header" >
+		<a href="index.html"><img src="img/corruption.jpg" alt="CORRUPTION"></a><a class="link_2"href="chatbot.html"><button id="btnchat"><b>chat-bot</b></button></a></div>
+   
+   
+    <!-- Start Off=Canvas Navigation Section -->
+    
+    <div class="menu-wrap">
+		<nav class="menu">
+			<div class="icon-list">
+				<a href="#home" class="logo page-scroll waves-effect"><b>Home</a>
+				<a href="#about-us" class="page-scroll waves-effect"><i class="fa fa-fw fa-user"></i><span>About Us</span></a>
+				<a href="#portfolio" class="page-scroll waves-effect"><i class="fa fa-fw fa-bell-o"></i><span>Projects & Tenders</span></a>
+				<a href="#service" class="page-scroll waves-effect"><i class="fa fa-fw fa-bar-chart-o"></i><span>Services </span></a>
+				<a href="#team" class="page-scroll waves-effect"><i class="fa fa-fw fa-users"></i><span>Our Team</span></a>
+				<a href="#awards-news" class="page-scroll waves-effect"><i class="fa fa-fw fa-mortar-board"></i><span>Awards</span></a>
+				<a href="#client" class="page-scroll waves-effect"><i class="fa fa-fw fa-comment-o"></i><span>Well-Wishers</span></a>
+				<a href="#contact" class="page-scroll waves-effect"><i class="fa fa-fw fa-envelope-o"></i><span>Contact</span></a></b>
+			</div>
+		</nav>
+		<button class="close-button" id="close-button">Close Menu</button>
+	</div>
+	<button class="menu-button waves-effect" id="open-button">Open Menu</button>
+    <!-- End Off-Canvas Navigation Section -->
+    
+    
+    <!-- ***************************************************************** -->
+    <!-- Start Header Section -->
+    <!-- ***************************************************************** -->
+      <header>
+    </header>
+    <section class="header" id="home">
+            <div class="intro-text">
+                <h1>Welcome <span>INDIA</span></h1>
+                <p><b>Let's wake up!!<br>Let's be Exemplary!!</br></p>
+                <a href="#feature" class="page-scroll waves-effect btn btn-primary">Blogs</a>
+            </div>
+    </section>
+        
+         
+    <!-- End Header Section -->
+    
+    
+    
+    
+    <!-- Start About Us Section -->
+    <section id="about-us" class="about-us-section-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <div class="section-title text-center">
+                            <h2><b>About Us</b></h2>
+                            <p>We all as a team are here as UNITED INDIANS to fight back against CORRUPTION of any sort in INDIA.</p>
+                        </div>
+                </div>
+            </div>
+            <div class="row">
+                
+                <div class="col-md-4 col-sm-4">
+                    <div class="welcome-section text-center waves-effect">
+                        <img src="assets/images/photo-2.jpg" class="img-responsive" alt="..">
+                        <h4><b>Our Motto</b></h4>
+                        <div class="border"></div>
+                        <p>We are collectively putting stringent efforts in making INDIA a beautiful place to live in.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 col-sm-4">
+                    <div class="welcome-section text-center waves-effect">
+                        <img src="assets/images/photo-1.jpg" class="img-responsive" alt="..">
+                        <h4><b>Our Mission & Vision</b></h4>
+                        <div class="border"></div>
+                        <p>We strictly believe that if given a chance every individual can contribute in NATION building.</p>
+                        <p>Let's join our hands and root out CORRUPTION from INDIA.
+                    </div>
+                </div>
+                
+                <div class="col-md-4 col-sm-4">
+                    <div class="welcome-section text-center waves-effect">
+                        <img src="assets/images/photo-3.jpg" class="img-responsive" alt="..">
+                        <h4><b>Our Value & Rules</b></h4>
+                        <div class="border"></div>
+                        <p>We believe in HONESTY. Kindly keep your idea and problem effectively and honestly and get a chance to get rewarded.</p>
+                    </div>
+                </div>
+                
+            </div><!-- /.row -->            
+            
+        </div><!-- /.container -->
+    </section>
+    <!-- End About Us Section -->
+    
+    
+    
+    <!-- Start About Us Section 2 -->
+    <div class="about-us-section-2">
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-md-8">
+                    <ul id="skill-section" class="clearfix skill-graph waves-effect">
+                    <div> <p><b><u>Report of Number of Complaints registered on our portal (month-wise data)</u></b></p></div>
+                        <!-- single skill -->
+                        <li>
+                            <div class="after-li">
+                                <div class="singel-hr">
+                                    <div class="singel-hr-inner waves-effect" data-height="90%"></div>
+                                    <div class="skill-visiable">
+                                        <span class="skill-count">230</span>
+                                    </div>
+                                    <span class="skill-title">January February</span>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- /single skill-->
+
+                        <!-- single skill -->
+                        <li>
+                            <div class="after-li">
+                                <div class="singel-hr">
+                                    <div class="singel-hr-inner waves-effect" data-height="100%"></div>
+                                    <div class="skill-visiable">
+                                        <span class="skill-count">300</span>
+                                    </div>
+                                    <span class="skill-title">March April</span>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- /single skill-->
+
+                        <!-- single skill -->
+                        <li>
+                            <div class="after-li">
+                                <div class="singel-hr">
+                                    <div class="singel-hr-inner waves-effect" data-height="80%"></div>
+                                    <div class="skill-visiable">
+                                        <span class="skill-count">190</span>
+                                    </div>
+                                    <span class="skill-title">May June</span>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- /single skill-->
+
+                        <!-- single skill -->
+                        <li>
+                            <div class="after-li">
+                                <div class="singel-hr">
+                                    <div class="singel-hr-inner waves-effect" data-height="60%"></div>
+                                    <div class="skill-visiable">
+                                        <span class="skill-count">150</span>
+                                    </div>
+                                    <span class="skill-title">July August</span>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- /single skill-->
+
+                        <!-- single skill -->
+                        <li>
+                            <div class="after-li">
+                                <div class="singel-hr">
+                                    <div class="singel-hr-inner waves-effect" data-height="85%"></div>
+                                    <div class="skill-visiable">
+                                        <span class="skill-count">220</span>
+                                    </div>
+                                    <span class="skill-title">September October</span>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- /single skill-->
+
+                        <!-- single skill -->
+                        <li>
+                            <div class="after-li">
+                                <div class="singel-hr">
+                                    <div class="singel-hr-inner waves-effect" data-height="80%"></div>
+                                    <div class="skill-visiable">
+                                        <span class="skill-count">190</span>
+                                    </div>
+                                    <span class="skill-title">November December</span>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- /single skill-->
+
+                        <!-- single skill -->
+                        <li>
+                            <div class="after-li">
+                                <div class="singel-hr">
+                                    <div class="singel-hr-inner waves-effect" data-height="90%"></div>
+                                    <div class="skill-visiable">
+                                        <span class="skill-count">230</span>
+                                    </div>
+                                    <span class="skill-title">Full Year(avg)</span>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- /single skill-->
+
+                    </ul>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="custom-accordion waves-effect">
+                        <!-- Start Accordion Section -->
+                    <div class="panel-group" id="accordion">
+
+                        <!-- Start Accordion 1 -->
+                        <div class="panel panel-default">
+                            <div class="panel-heading waves-effect">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1">
+                                        <i class="fa fa-angle-left control-icon"></i><b> Who We are ?</b>                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapse-1" class="panel-collapse collapse in">
+                                <div class="panel-body">We as a team with your valuable support are fighting against Corruption to make India a better place to live in. </div>                               </div>
+                        </div>
+                        <!-- End Accordion 1 -->
+
+                        <!-- Start Accordion 2 -->
+                        <div class="panel panel-default">
+                            <div class="panel-heading waves-effect">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-2" class="collapsed">
+                                        <i class="fa fa-angle-left control-icon"></i><b> What we do ?</b>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapse-2" class="panel-collapse collapse">
+                                <div class="panel-body">We ask you to browse your location via pin-code and it will show up "Completed Projects, Ongoing Projects and Upcoming projects in your area along with each and every detail of project. You can register a complaint if you find anything fishy out there. "</div>                               </div>
+                        </div>
+                        <!-- End Accordion 2 -->
+
+                        <!-- Start Accordion 3 -->
+                        <div class="panel panel-default">
+                            <div class="panel-heading waves-effect">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-3" class="collapsed">
+                                        <i class="fa fa-angle-left control-icon"></i> <b>Why Faith Us ?</b>                                   </a>
+                                </h4>
+                            </div>
+                            <div id="collapse-3" class="panel-collapse collapse">
+                                <div class="panel-body">We are an independent Community of 4 members with our investigation branch in each state.We are in constant touch with PMO INDIA. So Please do believe us and check the rest in status of your complaint. </div>
+                            </div>
+                        </div>
+                        <!-- End Accordion 3 -->
+
+                        <!-- Start Accordion 4 -->
+                        <div class="panel panel-default">
+                            <div class="panel-heading waves-effect">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-4" class="collapsed">
+                                        <i class="fa fa-angle-left control-icon"></i><b> Support Us</b>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapse-4" class="panel-collapse collapse">
+                                <div class="panel-body">Come On INDIA!!Let's set an example to others, we are known for.</div>
+                            </div>
+                        </div>
+                        <!-- End Accordion 4 -->
+
+                    </div>
+                    <!-- End Accordion section -->
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <!-- End About Us Section 2 -->
+    
+    
+    
+    
+    <!-- Start Project Section -->
+    <section id="portfolio" class="portfolio-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title text-center">
+                        <h2><b>PROJECTS & TENDERS</b></h2>
+                        <p>Latest best completed ,Ongoing and Upcoming Projects </p>
+                    </div>                        
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    
+                    
+                    <!-- Start Projects section -->
+                    <p><pre>Completed Projects                              Ongoing Projects                              Upcoming Projects</pre></p>
+                    <ul id="portfolio-list">
+                        <li>
+                            <div class="portfolio-item">
+                                <img src="assets/images/portfolio/port-5.jpg" class="img-responsive" alt="" />
+                                <div class="portfolio-caption">
+                                    <h4>Project-1</h4> 
+                                    <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
+                                    <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="portfolio-item">
+                                <img src="assets/images/portfolio/port-2.jpg" class="img-responsive" alt="" />
+                                <div class="portfolio-caption">
+                                    <h4>Project-3</h4>
+                                    <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
+                                    <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="portfolio-item">
+                                <img src="assets/images/portfolio/port-3.jpg" class="img-responsive" alt="" />
+                                <div class="portfolio-caption">
+                                    <h4>Project-5</h4>
+                                    <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
+                                    <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="portfolio-item">
+                                <img src="assets/images/portfolio/port-4.jpg" class="img-responsive" alt="" />
+                                <div class="portfolio-caption">
+                                    <h4>Project-2</h4>
+                                    <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
+                                    <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="portfolio-item">
+                                <img src="assets/images/portfolio/port-6.jpg" class="img-responsive" alt="" />
+                                <div class="portfolio-caption">
+                                    <h4>Project-4</h4>
+                                    <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
+                                    <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="portfolio-item">
+                                <img src="assets/images/portfolio/port-1.jpg" class="img-responsive" alt="" />
+                                <div class="portfolio-caption">
+                                    <h4>Project-6</h4>
+                                    <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
+                                    <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                </div>
+                            </div>
+                        </li>
+                     <div> <pre><p>        <a href="tenders.pdf" >More Projects</a></a>                                  <a href="tenders.pdf">More Projects</a></a></a>                               <a href="tenders.pdf">More Projects</a></a></a></p></pre>
+                            
+                    </ul></div>
+                    
+                    
+                   <!-- End Projects section -->
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Projects Section -->
+    
+    <!-- Start Project Modal Section -->
+    <div class="section-modal modal fade" id="portfolio-modal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            
+            <div class="container">
+                <div class="row">
+                    <div class="section-title text-center">
+                        <h2>Project Details</h2>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="row">
+                    
+                    <div class="col-md-6">
+                        <img src="assets/images/portfolio/port-1.jpg" class="img-responsive" alt="..">
+                    </div>
+                    <div class="col-md-6">
+                        <img src="assets/images/portfolio/port-2.jpg" class="img-responsive" alt="..">
+                    </div>
+                    
+                </div><!-- /.row -->
+            </div>                
+        </div>
+    </div>
+    <!-- End Project Modal Section -->
+    
+    
+    
+    <!-- Start Service Section -->
+    <section id="service" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title text-center">
+                        <h2><b>Our Services</b></h2>
+                        <p>Kindly REGISTER yourself, Log in and get started.</p>
+                    </div>
+                </div>
+            </div>
+            
+     <!-- login and registration form -->
+    <link rel="stylesheet" type="text/css" href="assets/css/style1.css">       
+    <div id="login-box">
+    <div class="left">
+    <h1>Sign up</h1>
+    
+    <input type="text" name="username" placeholder="Username" />
+    <input type="text" name="email" placeholder="E-mail" />
+    <input type="password" name="password" placeholder="Password" />
+    <input type="password" name="password2" placeholder="Retype password" />
+    
+    <input type="submit" name="signup_submit" value="Sign me up" />
+  </div>
+  
+  <div class="right">
+    <span class="loginwith">Sign in with<br />social network</span>
+    
+    <button class="social-signin facebook">Log in with facebook</button>
+    <button class="social-signin twitter">Log in with Twitter</button>
+    <button class="social-signin google">Log in with Google+</button>
+  </div>
+  <div class="or">OR</div>
+</div>
+
+    <!-- End Service Section -->
+     
+    <!-- Start Fun Facts Section -->
+    <section class="fun-facts">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="counter-item waves-effect">
+                     <i class="fa fa-check"></i>
+                     <div class="timer" id="item2" data-to="7394" data-speed="5000"></div>
+                     <h5><b>Projects completed</b></h5> 
+                    </div>
+                    </div>  
+                    <div class="col-xs-12 col-sm-6 col-md-3">
+                      <div class="counter-item waves-effect">                                 
+                        <i class="fa fa-cloud-upload"></i>
+                        <div class="timer" id="item1" data-to="991" data-speed="5000"></div>
+                        <h5><b>Complaints Received</b></h5>                               
+                      </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-3">
+                      <div class="counter-item waves-effect">
+                        <i class="fa fa-code"></i>
+                        <div class="timer" id="item3" data-to="600" data-speed="5000"></div>
+                        <h5><b>Complaints observed</b></h5>                               
+                      </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-3">
+                      <div class="counter-item waves-effect">
+                        <i class="fa fa-male"></i>
+                        <div class="timer" id="item4" data-to="245" data-speed="5000"></div>
+                        <h5><b>Awarded</b></h5>                               
+                      </div>
+                    </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Fun Facts Section -->
+    
+    
+    
+    <!-- Start Team Member Section -->
+    <section id="team" class="team-member-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <div class="section-title text-center">
+                            <h2><b>Our Team</h2></b>
+                            <p><b>Our strict, dedicated and goal oriented team</b></p>
+                        </div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <div class="team-member">
+                        <img src="assets/images/team/face_1.png" class="img-responsive" alt="">
+                        <div class="team-details">
+                            <h4><b>AJAY SINGH</h4>
+                            <div class="designation">Founder & Director</div>
+                            <p class="description">He is a technocrat. He loves to serve humanity and fight for a cause.</p>
+                            <ul>
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="team-member">
+                        <img src="assets/images/team/face_2.png" class="img-responsive" alt="">
+                        <div class="team-details">
+                            <h4><b>AJAY NEHRA</b></h4>
+                            <div class="designation">Founder & Director</div>
+                            <p class="description">He is a technocrat. He loves to serve humanity and fight for a cause.</p>
+                            <ul>
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="team-member">
+                        <img src="assets/images/team/face_3.png" class="img-responsive" alt="">
+                        <div class="team-details">
+                            <h4><b>CHOUDHARY A.S</b></h4>
+                            <div class="designation">Founder & Director</div>
+                            <p class="description">He is a technocrat. He loves to serve humanity and fight for a cause.</p>
+                            <ul>
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="team-member">
+                        <img src="assets/images/team/face_4.png" class="img-responsive" alt="">
+                        <div class="team-details">
+                            <h4><b>AJAY NEHRA</B</h4>
+                            <div class="designation">Founder & Director</div>
+                            <p class="description">He is a technocrat. He loves to serve humanity and fight for a cause.</p>
+                            <ul>
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+        </div>
+    </section>
+    <!-- End Team Member Section -->
+    
+    
+    
+    <!-- Start Call to Action Section -->
+    <section class="call-to-action">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>Get your<strong> PHOTO </strong>posted here<br>Every month's winner of Best Anti Corruption Initiative Project Award</h1>
+                    <button type="submit" class="btn btn-primary waves-effect">Visit ID</button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Call to Action Section -->
+    
+    
+    
+    <!-- Start Awards Section -->
+    <section id="awards-news" class="awards-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title text-center">
+                        <h2><b>Awards</b></h2>
+                        <p>Get updated by our latest Awards, Events and happenings</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="awards-news">
+                    <div class="col-md-4 col-sm-4"> 
+                    <div class="awards-post waves-effect">
+                    <img src="assets/images/post-1.jpg" class="img-responsive" alt="">
+                            <h4><a href="#">Best root out Corruption Award(monthly)</a></h4>
+                            
+                            <p>Best Root-out Corruption Initiative Award ia an initiative by Govt.Of India and our balanced team of Root-Out Corruption Committee. This awards aims to help true and noble citizens of the state on monthly basis.</p>
+                            <a href "assets/awards1.html"><a class="btn btn-primary">Read More</a></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                        <div class="awards-post waves-effect">
+                            <img src="assets/images/post-2.jpg" class="img-responsive" alt="">
+                            <h4><a href="#">Best root out Corruption Award(half-yearly)</a></h4>
+                            
+                            <p>Best Root-out Corruption Initiative Award ia an initiative by Govt.Of India and our balanced team of Root-Out Corruption Committee. This awards aims to help true and noble citizens of the state on half-yearly basis.</p>
+                            <a href "assets/awards2.html"><a class="btn btn-primary">Read More</a></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                        <div class="awards-post waves-effect">
+                            <img src="assets/images/post-3.jpg" class="img-responsive" alt="">
+                            <h4><a href="#">Best root out Corruption Initiative Award(yearly)</a></h4>
+                            
+                            <p>Best Root-out Corruption Initiative Award ia an initiative by Govt.Of India and our balanced team of Root-Out Corruption Committee. This awards aims to help true and noble citizens of the state on yearly basis.</p>
+                            <a href "assets/awards3.html"><a class="btn btn-primary">Read More</a></a>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Latest News Section -->
+    
+    
+    
+    <!-- Start Client Section -->
+    <section id="client" class="client-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title text-center wow fadeInDown" data-wow-duration="2s" data-wow-delay="50ms">
+                        <h2><b>Well-Wishers</b></h2>
+                        <p>Best of Blogs and Suggestions for all!!</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                 
+                <div class="col-md-12">
+                    <div class="testimonial-section">
+                        <div class="testimonial">
+                            <p>PM Modi's mission of making india a dream land free of Corruption is really taken by you all guys.Great going!! Keep yourself self-motivated during all hurdles that you face throughout your journey. You are really doing the best one can do for his nation. Proud of you all!!!</p>
+                            <div class="testimonial-people pull-right">
+                                <img src="assets/images/clients/client_1.png" class="img-responsive" alt="Testimonial People">
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <p>You guys are really going great.Keep going ahead.Your hardwork will surely make every INDIAN proud. PM Modi's mission of making india a dream land free of Corruption is really taken by you all guys</p>
+                            <div class="testimonial-people pull-right">
+                                <img src="assets/images/clients/client_2.png" class="img-responsive" alt="Testimonial People">
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <p>PM Modi's mission of making india a dream land free of Corruption is really taken by you all guys.Keep yourself self-motivated during all hurdles that you face throughout your journey.</p>
+                            <div class="testimonial-people pull-right">
+                                <img src="assets/images/clients/client_3.png" class="img-responsive" alt="Testimonial People">
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <p>.</p>
+                            <div class="testimonial-people pull-right">
+                                <img src="assets/images/clients/client_4.png" class="img-responsive" alt="Testimonial People">
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <p>.</p>
+                            <div class="testimonial-people pull-right">
+                                <img src="assets/images/clients/client_5.png" class="img-responsive" alt="Testimonial People">
+                            </div>
+                        </div>
+                        <div class="testimonial">
+                            <p>.</p>
+                            <div class="testimonial-people pull-right">
+                                <img src="assets/images/clients/client_6.png" class="img-responsive" alt="Testimonial People">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+    <!-- End Client Section -->
+    
+    
+    
+    
+    <!-- Start Contact Us Section -->
+    <section id="contact" class="contact contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title text-center wow fadeInDown" data-wow-duration="2s" data-wow-delay="50ms">
+                        <h2><b>Contact With Us</b></h2>
+                        <p>We will love to hear from you.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="row">
+                            <div class="col-md-6 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="600ms">
+                                <div class="form-group waves-effect">
+                                    <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group waves-effect">
+                                    <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group waves-effect">
+                                    <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="col-md-6 wow fadeInRight" data-wow-duration="2s" data-wow-delay="600ms">
+                                <div class="form-group waves-effect">
+                                    <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-lg-12 text-center">
+                                <div id="success"></div>
+                                <button type="submit" class="btn btn-primary waves-effect">Send Message</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        
+    </section>
+    
+    
+    
+    
+    <!-- Start Map Section -->
+    <div class="google-map">
+        <div id="map"></div>
+        <div class="contact-info waves-effect">
+            <h4>Contact info</h4>
+            <ul>
+                <li><strong>E-mail :</strong> ajaynehrasikar@mail.com</li>
+                <li><strong>Phone :</strong> +918275434450</li>
+                <li><strong>Mobile :</strong> +919607669040</li>
+                <li><strong>Web :</strong> www.wordpress.choudharyas.com</li>
+            </ul>
+        </div>
+    </div>
+    <!-- End Map Section -->
+    
+    
+    
+    <!-- Start Footer Section -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-xs-12">
+                    <span class="copyright"> &copy; CHOUDHARY A.S. Designed by <a href="http://themefisher.com">AJAY SINGH</a></span>
+                </div>
+                <div class="col-md-4 col-xs-12">
+                    <div class="footer-social text-center">
+                        <ul>
+                            <li class="waves-effect"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li class="waves-effect"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li class="waves-effect"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li class="waves-effect"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li class="waves-effect"><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-4 col-xs-12">
+                    <div class="footer-link">
+                        <ul class="pull-right">
+                            <li><a href="#">Sejal</a>
+                            </li>
+                            <li><a href="#"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End Footer Section -->
+    
+    
+    
+    
+    
+    
+    <!-- jQuery Version 2.1.3 -->
+    <script src="assets/js/jquery-2.1.3.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="assets/js/jquery.easing.1.3.js"></script>
+    <script src="assets/js/classie.js"></script>
+    <script src="assets/js/count-to.js"></script>
+    <script src="assets/js/jquery.appear.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/jquery.fitvids.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="assets/js/jqBootstrapValidation.js"></script>
+    <script src="assets/js/contact_me.js"></script>
+
+    <!-- Materialize js -->
+    <script src="assets/js/material.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+
+    <!-- Google Map -->
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script src="assets/js/google-map-init.js"></script>
+
+    <!-- Custom JavaScript -->
+    <script src="assets/js/script.js"></script>
+    
+    
+</body>
+</html>

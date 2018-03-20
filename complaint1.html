@@ -1,0 +1,135 @@
+
+<html>
+
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</head>
+
+<body>
+     
+<div class="container">
+<div class="row">
+<div class="page-header">
+<h1 style="color:blue;">COMPLAINT FORM</h1>
+</div>  
+        
+<form class="form-horizontal" role="form" method="post" action = "projcomp.php" onsubmit="return validateForm()">
+ 
+<div class="form-group has success">
+<label for="firstName" class="col-sm-2 control-label">User Name :</label>
+<div class="col-sm-6">
+<input type="text" name="username" class="form-control" id="firstName" placeholder="Type your Username" required />
+    
+</div>
+</div>
+ 
+<div class="form-group">
+<label for="lastName" class="col-sm-2 control-label">Code :</label>
+<div class="col-sm-6">
+<input type="number" name="code" class="form-control" id="lastName" placeholder="Code of  Area" required />
+</div>
+</div>
+
+
+ 
+<div class="form-group">
+<label for="" class="col-sm-2 control-label">Area :</label>
+<div class="col-sm-6">
+<label class="radio-inline">
+<input type="radio" name="area" id="gender1" value="male" required />Urban
+</label>
+<label class="radio-inline">
+<input type="radio" name="area" id="gender2" value="female">Rural
+</label>
+ 
+</div>
+</div>
+
+<div class="form-group">
+<label for="lastName" class="col-sm-2 control-label">Name of project :</label>
+<div class="col-sm-6">
+<input type="number" name="lastName" class="form-control" id="lastName" placeholder="Enter project name" required />
+</div>
+</div>
+
+<div class="form-group">
+<label for="" class="col-sm-2 control-label">Project Type :</label>
+<div class="col-sm-6">
+<label class="radio-inline">
+<input type="radio" name="pt" id="gender1" value="gs" required />Goverment Scheme
+</label>
+<label class="radio-inline">
+<input type="radio" name="pt" id="gender2" value="ms">Municipal scheme
+</label>
+ 
+</div>
+</div>
+
+<div class="form-group">
+<label for="lastName" class="col-sm-2 control-label">project cost :</label>
+<div class="col-sm-6">
+<input type="number" name="pc" class="form-control" id="lastName" placeholder="enter project cost" required />
+</div>
+</div>
+
+<div class="form-group">
+<label for="lastName" class="col-sm-2 control-label">Actual project cost :</label>
+<div class="col-sm-6">
+<input type="number" name="apc" class="form-control" id="lastName" placeholder="Enter actual project cost" required />
+</div>
+</div>
+
+<div class="form-group">
+<label for="lastName" class="col-sm-2 control-label">project duration :</label>
+<div class="col-sm-6">
+<input type="number" name="pd" class="form-control" id="lastName" placeholder="Enter project duration in months" required />
+</div>
+</div>
+
+<div class="form-group">
+<label for="lastName" class="col-sm-2 control-label">actual project duaration :</label>
+<div class="col-sm-6">
+<input type="number" name="apd" class="form-control" id="lastName" placeholder="Enter actual project duration in month" required />
+</div>
+</div>
+
+<div class="form-group">
+<label for="lastName" class="col-sm-2 control-label">time lag :</label>
+<div class="col-sm-6">
+<input type="number" name="tl" class="form-control" id="lastName" placeholder="Enter time lag in month" required />
+</div>
+</div>
+ 
+
+  
+ 
+ 
+
+ 
+
+<pre>		<input type="checkbox" name="allow" value="yes" style="text-align:center;" ><b>I here by declare that all information provided under  my privilence and are correct upto my knowledge.<br></b></pre>
+
+
+ 
+<div class="form-group">
+<div class="col-sm-offset-2 col-sm-10">
+<button type="submit" class="btn btn-primary" id="register">Submit</button>
+</div>
+</div>
+ 
+</form>
+ 
+</div><!-- end for class "row" -->
+</div><!-- end for class "container" -->
+ 
+</body>
+ 
+
+</html>
