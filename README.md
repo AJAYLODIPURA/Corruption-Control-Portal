@@ -1,4 +1,4 @@
-# RAJ-IT-DAY-HACKATHON-4.0
+# Corruption Control Portal
 people can't  contribute in controlling the corruption in government and municipal corporation schemes and  bribe activities.
 >We plan to make an online portal in which a Registration through one's zip code will result into the browsing of all govt. 
 >and municipal schemes ongoing, completed and upcoming in that area along with total details like cost ,estimated time etc.
